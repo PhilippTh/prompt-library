@@ -7,11 +7,7 @@ A curated collection of prompts for various development tasks and AI interaction
 This repository contains a collection of prompts organized by categories to help developers and users interact more effectively with AI tools and services.
 
 ## Table of Contents
-- cursor rules
-  - [fastapi](prompts\cursor rules\fastapi.md)
-- web development
-  - [design-guidlines](prompts\web development\design-guidlines.md)
-
+{TOC_PLACEHOLDER}
 
 ## Usage
 
